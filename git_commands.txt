@@ -1,0 +1,16 @@
+1090  git add Git-Hub_for_Devops
+ 1091  ls
+ 1092  git commit -m "added new commands"
+ 1093  git add git_commands.txt
+ 1094  git commit -m "added new commands"
+ 1095  rm git repo
+ 1096  rm -r teesting.py
+ 1097  rm -r testing.py
+ 1098  rm git_commands.txt
+ 1099  git restore testing.py
+ 1100  rm testing.py
+ 1101  git init
+ 1102  ls
+ 1103  git restore testing.py
+ 1104  git restore git_commands.txt
+ 1105  git restore abc
