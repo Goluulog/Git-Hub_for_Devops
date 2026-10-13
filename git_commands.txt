@@ -14,3 +14,22 @@
  1103  git restore testing.py
  1104  git restore git_commands.txt
  1105  git restore abc
+
+
+
+ 1129  git push origin main
+ 1130  git push -u origin main
+ 1131  git origin
+ 1132  git branch
+ 1133  git status
+ 1134  git add git_commands.txt
+ 1135  git commit -m "Update git commands file"
+ 1136  git push origin main
+ 1137  git status
+ 1138  git status
+ 1139  git add testing.py
+ 1140  git commit -m "Updated the file"
+ 1141  git push origin main
+ 1142  git status
+ 1143  cat testing.py
+ 1144  clear
