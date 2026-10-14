@@ -33,3 +33,19 @@
  1142  git status
  1143  cat testing.py
  1144  clear
+
+
+
+
+ 1150  git status
+ 1151  git add testing.py
+ 1152  git commit -m "Updated the git file'\n
+ 1153  git commit -m "Updated the git file"\n
+ 1154  git push origin main
+ 1155  git status
+ 1156  git status
+ 1157  ls
+ 1158  cat git_commands.txt
+ 1159  cat testing.py
+ 1160  git status
+ 1161  git status
